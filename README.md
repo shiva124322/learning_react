@@ -1,1 +1,1 @@
-# my_React
+# learning_react
